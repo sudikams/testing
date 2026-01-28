@@ -1,0 +1,9 @@
+{
+    "name": "Dracin Repository",
+    "iconUrl": "https://raw.githubusercontent.com/sudikams/testing/main/icon.png",
+    "description": "Dracin CloudStream Extension - Multi-source Asian Drama Provider",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/sudikams/testing/main/plugins.json"
+    ]
+}
