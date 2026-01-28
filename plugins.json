@@ -3,12 +3,18 @@
         "iconUrl": "https://raw.githubusercontent.com/sudikams/testing/main/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/sudikams/testing",
-        "fileSize": 60746,
+        "fileSize": 61647,
         "status": 1,
         "language": "id",
-        "authors": ["sudikams"],
-        "tvTypes": ["Movie", "TvSeries", "AsianDrama"],
-        "version": 1,
+        "authors": [
+            "sudikams"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "AsianDrama"
+        ],
+        "version": 2,
         "internalName": "DracinProvider",
         "description": "Multi-source Asian Drama Provider - DramaBox, NetShort, Melolo, FlickReels, FreeReels, MovieBox",
         "url": "https://github.com/sudikams/testing/raw/refs/heads/main/DracinProvider.cs3",
