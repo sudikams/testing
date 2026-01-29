@@ -3,7 +3,7 @@
         "iconUrl": "https://raw.githubusercontent.com/sudikams/testing/main/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/sudikams/testing",
-        "fileSize": 50000,
+        "fileSize": 60000,
         "status": 1,
         "language": "id",
         "authors": [
@@ -14,9 +14,9 @@
             "TvSeries",
             "AsianDrama"
         ],
-        "version": 5,
+        "version": 7,
         "internalName": "DracinProvider",
-        "description": "DramaBox Asian Drama Provider",
+        "description": "Asian Drama Provider - DramaBox, ReelShort",
         "url": "https://github.com/sudikams/testing/raw/refs/heads/main/DracinProvider.cs3",
         "name": "Dracin"
     }
