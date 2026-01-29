@@ -14,7 +14,7 @@
             "TvSeries",
             "AsianDrama"
         ],
-        "version": 8,
+        "version": 9,
         "internalName": "DracinProvider",
         "description": "Asian Drama Provider - DramaBox, ReelShort",
         "url": "https://github.com/sudikams/testing/raw/refs/heads/main/DracinProvider.cs3",
