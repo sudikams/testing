@@ -1,7 +1,7 @@
 [
     {
         "iconUrl": "https://raw.githubusercontent.com/sudikams/testing/main/icon.png",
-        "apiVersion": 1,
+        "apiVersion": 2,
         "repositoryUrl": "https://github.com/sudikams/testing",
         "fileSize": 60000,
         "status": 1,
