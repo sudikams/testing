@@ -14,7 +14,7 @@
             "TvSeries",
             "AsianDrama"
         ],
-        "version": 17,
+        "version": 18,
         "internalName": "DracinProvider",
         "description": "Asian Drama Provider - DramaBox, ReelShort, NetShort, FlickReels, FreeReels, Melolo",
         "url": "https://github.com/sudikams/testing/raw/refs/heads/main/DracinProvider.cs3",
